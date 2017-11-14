@@ -15,6 +15,7 @@
 * Player and mobs have health system to determine damage taken, and deaths.
 --* By extension, Player and mobs have hit boxes, and react to being hit.
 * Mobs can move on their own, either by "patrol" or towards Player.
+* Player can progress to new levels.
 #### Reliability:
 * Player does not encounter bugs or issues related to playable area (falling through map, clipping through walls).
 * Player reacts intuitively to taking damage, and controls behave responsive and clean.
