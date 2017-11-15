@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: ebac5e201f463cc4b9dd14fd8fc61a99
-timeCreated: 1510697693
-licenseType: Pro
+timeCreated: 1510714334
+licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: idle_sprite_0
@@ -84,8 +84,8 @@ TextureImporter:
         y: 32
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -98,8 +98,8 @@ TextureImporter:
         y: 0
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
