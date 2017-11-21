@@ -30,6 +30,8 @@ public class P_Controller : MonoBehaviour {
 	// Update is called once per frame
 	void FixedUpdate () {
         isGrounded = checkGrounded();
+        _anim.SetBool("isGrounded", isGrounded);
+        _anim.SetFloat ("y_velo", _rb.velocity.y);
 
 		_anim.SetBool ("attacking", false);
 
